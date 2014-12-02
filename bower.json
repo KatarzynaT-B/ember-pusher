@@ -1,0 +1,23 @@
+{
+  "name": "ember-pusher",
+  "main": "ember-pusher.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jamiebikies/ember-pusher",
+  "authors": [
+    "Jamie Gilgen"
+  ],
+  "description": "An implementation of a declarative interface to Pusher for Ember",
+  "keywords": [
+    "ember",
+    "pusher"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
